@@ -1,0 +1,36 @@
+{
+  "name": "hard-warnings",
+  "version": "0.0.0",
+  "description": "Throw an error when console.warn/error are called",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "register.js"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiebuilds/hard-warnings.git"
+  },
+  "keywords": [
+    "warnings",
+    "errors",
+    "console",
+    "fail",
+    "error",
+    "throw",
+    "tests",
+    "test"
+  ],
+  "author": "Jamie Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamiebuilds/hard-warnings/issues"
+  },
+  "homepage": "https://github.com/jamiebuilds/hard-warnings#readme",
+  "devDependencies": {
+    "ava": "^1.0.1"
+  }
+}
